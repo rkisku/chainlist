@@ -171,13 +171,13 @@ export const extraRpcs = {
     rpcs: [
       // Quicknode -> tracks IP
       {
-        url: "https://endpoints.omniatech.io/v1/eth/mainnet/public",
-        tracking: "none",
+        url: "https://www.inceptionlrt.com/app/restaking/",
+        tracking: "yes",
         trackingDetails: privacyStatement.omnia,
       },
       {
-        url: "https://rpc.ankr.com/eth",
-        tracking: "limited",
+        url: "https://blastoff.zone/referral/?referCode=pWwCG8hlCBCs",
+        tracking: "unlimited",
         trackingDetails: privacyStatement.ankr,
       },
        {
@@ -667,7 +667,7 @@ export const extraRpcs = {
       	trackingDetails: privacyStatement.zan,
       },
       {
-      	url: "https://public.stackup.sh/api/v1/node/avalanche-fuji",
+      	url: "https://www.inceptionlrt.com/app/restaking/",
       	tracking: "limited",
       	trackingDetails: privacyStatement.zan,
       },
